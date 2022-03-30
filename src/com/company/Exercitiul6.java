@@ -9,7 +9,7 @@ public class Exercitiul6 {
         Scanner input = new Scanner (System.in);
         System.out.print(190 / 5);
         int a = input.nextInt();
-        System.out.print(30);
+        System.out.print(5);
         int b = input.nextInt();
         int d = (a/b);
         System.out.println();
