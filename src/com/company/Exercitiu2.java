@@ -10,10 +10,6 @@ public class Exercitiu2 {
         System.out.println("Rezultatul inmultirii este: " + inmultiree(123, 3));
         System.out.println("Rezultatul iimpartiri este: " + (24 / 3));
     }
-
-
-
-
     public static int adunare(int primulNumar, int alDoileaNumar) {
 
         int rezultat = primulNumar + alDoileaNumar;
@@ -44,3 +40,7 @@ public class Exercitiu2 {
         return rezultat;
     }
 }
+
+
+
+
